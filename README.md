@@ -34,7 +34,7 @@ BUCHSE
 
 Pegel: 0.7V, 75Ohm
 
-ID0  |  ID1 | ID2 |
+ID0  |  ID1 | ID2 | function
 ---  | ---  | --- | ---
 n.c. | n.c. | n.c.| no monitor connected
      | GND  |     | monochrome (G)
