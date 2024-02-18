@@ -4,8 +4,7 @@ Minimal und optimal für Server.
 
 # VGA-Signal
 
-``` 
-
+``` Ascii
 BUCHSE
              ____________________________________
     ____     \    ( 5) ( 4) ( 3) ( 2) ( 1)      /     ____
@@ -40,5 +39,19 @@ n.c.   | n.c.   | n.c.   | no monitor connected  |
 &nbsp; | GND    | &nbsp; | monochrome (G)        |
 GND    | &nbsp;	| &nbsp; | color 800x640         |
 GND    | &nbsp;	| GND    | color, 1024x768       |
+
+# VGA "aufnehmen"
+
+Theoretisch geht das mit einem Raspberry Pico 
+
+# Plan:
+* [ ] Also zuerst mal ein Gerät finden das VGA ausgibt. 
+* [ ] Ein Kabel bauen das die "Spezifikation" triggert 
+* [ ] Den Logic-Analyzer für den RaspPico zusammen bauen.
+* [ ] Das V-Sync "sehen".
+* [ ] Das H-Sync "sehen". 
+* [ ] Eine Zeile sehen und ausgeben. 
+* [ ] Ein Bild sehen und irgendwie ausgeben. 
+* [ ] Das Bild als SPI auf das Display geben.
 
 
