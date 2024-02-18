@@ -34,11 +34,11 @@ BUCHSE
 
 Pegel: 0.7V, 75Ohm
 
-ID0  |  ID1 | ID2 | function              |
----  | ---  | --- | ---                   |
-n.c. | n.c. | n.c.| no monitor connected  | 
-     | GND  |     | monochrome (G)        |
-GND  |      |     | color 800x640         |
-GND  |      | GND | color, 1024x768       |
+ID0    |  ID1   | ID2    | function              |
+---    | ---    | ---    | ---                   |
+n.c.   | n.c.   | n.c.   | no monitor connected  | 
+&nbsp; | GND    | &nbsp; | monochrome (G)        |
+GND    | &nbsp;	| &nbsp; | color 800x640         |
+GND    | &nbsp;	| GND    | color, 1024x768       |
 
 
